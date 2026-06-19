@@ -1,6 +1,6 @@
 """
 Sources:
-    https://github.com/yuliu625/Yu-CLI-Wrapper/blob/main/modules/network/rsync_wrapper.py
+    https://github.com/yuliu625/Yu-CLI-Wrapper/blob/main/src/network/rsync_wrapper.py
 
 
 """
