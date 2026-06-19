@@ -1,6 +1,6 @@
 """
 Sources:
-    https://github.com/yuliu625/Yu-CLI-Wrapper/blob/main/modules/monitor/nohup_wrapper.py
+    https://github.com/yuliu625/Yu-CLI-Wrapper/blob/main/src/monitor/nohup_wrapper.py
 
 References:
     - https://www.gnu.org/software/coreutils/manual/html_node/nohup-invocation.html
